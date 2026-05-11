@@ -65,10 +65,26 @@ A modern hackathon platform built for participants to access event information, 
 
 ## 🌐 Connect With Me
 
+## 🌐 Connect With Me
+
 <p align="left">
-<a href="https://github.com/NuHazim" target="blank">
-  <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+
+<a href="https://github.com/NuHazim" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="45" />
 </a>
+
+<a href="https://www.linkedin.com/in/nufail-hazim-60820b40a/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+</a>
+
+<a href="https://www.instagram.com/hazeeeim/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" height="45" />
+</a>
+
+<a href="https://www.facebook.com/nufailhazim.sarif/" target="_blank">
+  <img src="https://img.icons8.com/color/48/facebook-new.png" height="45"/>
+</a>
+
 </p>
 
 ---
