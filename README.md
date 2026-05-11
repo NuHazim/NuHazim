@@ -65,8 +65,6 @@ A modern hackathon platform built for participants to access event information, 
 
 ## 🌐 Connect With Me
 
-## 🌐 Connect With Me
-
 <p align="left">
 
 <a href="https://github.com/NuHazim" target="_blank">
