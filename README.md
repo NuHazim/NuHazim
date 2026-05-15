@@ -66,13 +66,6 @@ A modern hackathon platform built for participants to access event information, 
   <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
 </a>
 
-<a href="https://www.instagram.com/hazeeeim/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" height="45" />
-</a>
-
-<a href="https://www.facebook.com/nufailhazim.sarif/" target="_blank">
-  <img src="https://img.icons8.com/color/48/facebook-new.png" height="45"/>
-</a>
 
 </p>
 
